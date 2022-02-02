@@ -34,6 +34,7 @@ $(document).ready(function() {
           title: 'Harvest Festival',
           start: new Date(y, m+1, 20),
           image: "https://images.unsplash.com/photo-1474440692490-2e83ae13ba29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80",
+          description: `Harvester unite! At this event all farmers gathers and contributes the part of their harvest.`
       },
       {
           title: 'Bacon Day',
